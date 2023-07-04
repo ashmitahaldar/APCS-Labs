@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sorts
+comment1.params=array
+comment1.target=void\ insertionSort(int[])
+comment2.params=array
+comment2.target=void\ selectionSort(int[])
+comment3.params=array\ front\ back
+comment3.target=void\ mergeSort(int[],\ int,\ int)
+comment4.params=array\ front\ back
+comment4.target=void\ merge(int[],\ int,\ int)
+comment5.params=array
+comment5.target=int[]\ shuffle(int[])
+numComments=6

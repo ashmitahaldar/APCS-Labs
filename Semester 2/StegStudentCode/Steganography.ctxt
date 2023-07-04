@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Steganography
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Steganography\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Steganography()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Steganography\r\n
+comment2.params=p
+comment2.target=void\ clearLow(Pixel)
+comment2.text=\r\n\ Clear\ the\ lower\ (rightmost)\ two\ bits\ in\ a\ pixel.\r\n
+comment3.params=p\ c
+comment3.target=void\ setLow(Pixel,\ java.awt.Color)
+comment4.params=hidden
+comment4.target=Picture\ revealPicture(Picture)
+comment5.params=source\ secret
+comment5.target=boolean\ canHide(Picture,\ Picture)
+comment6.params=pic
+comment6.target=Picture\ testClearLow(Picture)
+comment7.params=pic\ color
+comment7.target=Picture\ testSetLow(Picture,\ java.awt.Color)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
