@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayStats
+comment1.params=list
+comment1.target=ArrayStats(java.lang.String)
+comment2.params=list
+comment2.target=void\ setArray(java.lang.String)
+comment3.params=num
+comment3.target=int\ getSizeOfGroup(int)
+comment4.params=size
+comment4.target=int\ getNumGroupsOfSize(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
