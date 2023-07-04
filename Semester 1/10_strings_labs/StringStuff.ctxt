@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StringStuff
+comment1.params=word
+comment1.target=java.lang.String\ firstLast(java.lang.String)
+comment2.params=word
+comment2.target=java.lang.String\ middle(java.lang.String)
+comment3.params=word
+comment3.target=boolean\ isFirstLastSame(java.lang.String)
+numComments=4
