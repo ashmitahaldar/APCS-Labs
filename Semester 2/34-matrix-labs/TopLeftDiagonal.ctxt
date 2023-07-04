@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TopLeftDiagonal
+comment1.params=original
+comment1.target=java.lang.String\ encode(java.lang.String)
+comment2.params=encoded
+comment2.target=java.lang.String\ decode(java.lang.String)
+numComments=3
